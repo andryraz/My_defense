@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616392994996",
+    "project_id": "gestion-soutenance",
+    "storage_bucket": "gestion-soutenance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616392994996:android:89bdbd5071e0c0400167e1",
+        "android_client_info": {
+          "package_name": "com.example.gestion_de_soutenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616392994996-472qjtsarc9rb96oag34drmp8pvn5ufm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6Cjjz7L_6AC7az4ii_GF7morrxH3TnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616392994996-472qjtsarc9rb96oag34drmp8pvn5ufm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
